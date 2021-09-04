@@ -12,6 +12,6 @@
 Pour tout renseignement complémentaire : [contact](mailto:acces@una-club.fr?subject=[UNAccess]%20Question) 
 ### Salle d'honneur (aka *Club House*)
  - Accès par badge **uniquement** - [Obtenir un badge](https://docs.google.com/forms/d/e/1FAIpQLScCN5l2NMYkhbr3W7-YVlHZwUt42O2S5TpLKOGhfKOWxjqJHA/viewform)
-- Tous les jours de la semaine de **6h** à **20h**    
+- Tous les jours de la semaine de **8h** à **20h**    
 - Location possible - [contact](mailto:tresorier@una-club.fr?cc:acces@una-club.fr?subject=[UNAccess]%20Location) 
 	
