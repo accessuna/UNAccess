@@ -1,4 +1,3 @@
-# UN'Access : Accès aux locaux de l'UNA
 *Equipe Un'access* -  [acces@una-club.fr](mailto:acces@una-club.fr?subject=[UNAccess]%20Contact)
 
 ## Horaires
@@ -7,9 +6,9 @@
 - Tous les jours de la semaine de **6h** à **23h** (*modulo* l'ouverture de la grille)
 - Les codes sont changés tous les **2 mois**
 - Les codes d'accès sont envoyés aux adhérents **en début de période**
-- Vous avez loupé le mail : [contactez nous](mailto:acces@una-club.fr?subject=[UNAccess]%20Code)
+- Vous avez loupé le mail : [Contactez nous](mailto:acces@una-club.fr?subject=[UNAccess]%20Code)
 
-Pour tout renseignement complémentaire : [contact](mailto:acces@una-club.fr?subject=[UNAccess]%20Question)
+Pour tout renseignement complémentaire : [Contactez nous](mailto:acces@una-club.fr?subject=[UNAccess]%20Question)
 ### Salle d'honneur (aka *Club House*)
  - Accès par **badge uniquement** - [Obtenir un badge](https://docs.google.com/forms/d/e/1FAIpQLScCN5l2NMYkhbr3W7-YVlHZwUt42O2S5TpLKOGhfKOWxjqJHA/viewform)
 - Tous les jours de la semaine de **8h** à **20h**    
