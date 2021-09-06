@@ -3,7 +3,7 @@
 
 ## Horaires
 ### Vestiaires   
-- Accès par **code** ou **badge**
+- Accès par **code** ou **badge** - [Obtenir un badge](https://docs.google.com/forms/d/e/1FAIpQLScCN5l2NMYkhbr3W7-YVlHZwUt42O2S5TpLKOGhfKOWxjqJHA/viewform)
 - Tous les jours de la semaine de **6h** à **23h** (*modulo* l'ouverture de la grille)
 - Les codes sont changés tous les **2 mois**
 - Les codes d'accès sont envoyés aux adhérents **en début de période**
