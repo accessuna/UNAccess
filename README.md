@@ -1,5 +1,6 @@
 # UN'Access : Accès aux locaux de l'UNA
-*Equipe Un'access* -  [acces@una-club.fr](mailto:acces@una-club.fr?subject=[UNAccess]%20Contact)
+*Equipe Un'access* -  [acces@una-club.fr](mailto:acces@una-club.fr?subject=[UNAccess]%20Contact)  
+- **Période courante :** 01/09/21 - 31/10/21  
 
 ## Horaires
 ### Vestiaires   
