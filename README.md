@@ -1,6 +1,6 @@
 # UN'Access : Accès aux locaux de l'UNA
 *Equipe Un'access* -  [acces@una-club.fr](mailto:acces@una-club.fr?subject=[UNAccess]%20Contact)  
-- **Période courante :** 01/11/21 - 31/12/21  
+- **Période courante :** 01/01/22 - 28/02/22  
 
 ## Badges et accès :
  - [Obtenir un badge](https://www.univ-nantes-aviron.fr/collect/description/113648-h-badge-d-acces?header=%2Fpage%2F662072-badge-d-acces)
