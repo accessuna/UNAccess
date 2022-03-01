@@ -4,7 +4,7 @@
 
 ## Badges et accès :
  - [Obtenir un badge](https://www.univ-nantes-aviron.fr/collect/description/113648-h-badge-d-acces?header=%2Fpage%2F662072-badge-d-acces)
- - [Réactiver un badge](https://docs.google.com/forms/d/e/1FAIpQLScCN5l2NMYkhbr3W7-YVlHZwUt42O2S5TpLKOGhfKOWxjqJHA/viewform)
+ - [Réactiver un badge](mailto:acces@una-club.fr?subject=[UNAccess]%20Activation)
 
 ## Horaires
 ### Vestiaires   
